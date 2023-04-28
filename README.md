@@ -218,6 +218,6 @@ int main(void)
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![p](pmc 4-pdf.png)
  
-## Result :
+## Result:
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
